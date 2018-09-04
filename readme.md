@@ -1,4 +1,4 @@
-
+BADSJGKHIAS/fiodgstgdjdf
 ## Computer Science I - GitHub Assignment
 
 This repo contains code and tests for a simple GitHub assignment in used in Computer Science I at the University of Nebraska-Lincoln.  It contains code to compute whether or not a given integer is a Kaprekar number.  It contains both Java and C versions.  Both versions contain both ad-hoc testing suites as well as examples of formal testing frameworks (junit and cmocka respectively).
